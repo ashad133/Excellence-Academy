@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" fill="none">
+  <defs>
+    <linearGradient id="crestGrad" x1="0" y1="0" x2="240" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="50%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="208" height="208" rx="48" fill="#0B132B" stroke="url(#crestGrad)" stroke-width="6"/>
+  <path d="M120 52L48 88L120 124L192 88L120 52Z" fill="url(#crestGrad)"/>
+  <path d="M72 106V148C72 166 94 180 120 180C146 180 168 166 168 148V106L120 130L72 106Z" fill="#1E3A8A" stroke="#60A5FA" stroke-width="4"/>
+  <circle cx="186" cy="136" r="8" fill="#FBBF24"/>
+  <path d="M186 92V132" stroke="#FBBF24" stroke-width="4" stroke-linecap="round"/>
+</svg>
